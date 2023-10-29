@@ -1,3 +1,31 @@
+# Learnings
+
+- About react and how it work in respect to DOM.
+- Statefull stateless and pure function components.
+- How to pass data to child using props, and how to lift state up to pass data between components.
+- using useState hooks
+
+  - How to use it with simple state
+  - How to use it with arrays
+  - How to use it with simple objects
+  - How to use it with nested objects.
+
+- Working with forms
+
+  - How forms are created in react.
+  - useRef hooks for retriving form data.
+  - How to use react-hook-form for creating more managable forms.
+  - How to use ZOD to validate complex forms , with custom error message for each form.
+
+- Working with API's
+
+  - how to use sideEffect hooks.
+  - how to create custom hook.
+  - how to use axinos library for making api request (which is so good.)
+  - how to create generic api request making class.
+
+  ==========================================================================
+
 To start test server type : npm run dev
 
 `Create upload file feature` : https://dashboard.edgestore.dev/
